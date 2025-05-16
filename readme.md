@@ -1,9 +1,12 @@
 # Housing Cost Burden by ACS Place as a KPI Card
 
+<img src='./images/provRI_Burdened.png' alt='Provicence RI Hosing Cost Burden KPI' style='max-width: 400px;'>
+
 This is a demonstration of the ability to use ACS data to generate location specific summary stats using Python and using it to make KPI-like cards for social determinants of health data. 
 
 It will work for any municipality in the places dataset which is all U.S. cities and towns with populations greater than 65,000. 
 
+Read more on [LinkedIn](https://www.linkedin.com/posts/andrew-staroscik-a2853a7_python-datavisualization-activity-7272262717380431873-Hrf3)
 
 
 ### Finding the state and municipality data
